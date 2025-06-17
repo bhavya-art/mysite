@@ -241,8 +241,11 @@ main > .section > div {
 main > .section:first-of-type {
   margin-top: 0;
 }
+.cards{
+  background-color: red;
+}
 
-.custom{
+.banner{
   background-color: blue;
 }
 
